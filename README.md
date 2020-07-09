@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 <!--
 **thomshutt/thomshutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👔 Linkedin: https://uk.linkedin.com/in/thom-shutt-40358b164
+- 📧 Email: gh -at- thomshutt.com
+- 📝 Blog posts:
+  - [5 (Opinionated) Steps to Minimalist Logging In Go](https://thomshutt.github.io/opinionated-logging-in-go.html)
