@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 - 📧 Email: gh -at- thomshutt.com
 - 📝 Blog posts:
   - [5 (Opinionated) Steps to Minimalist Logging In Go](https://thomshutt.github.io/opinionated-logging-in-go.html)
+  - [(Brightcove) Creating Your First Delivery Rule](https://www.brightcove.com/en/resources/blog/creating-your-first-delivery-rule/)
+  - [(Brightcove) Life In the Fastly Lane: How Our New Playback API Architecture Gets Videos Off to a Fast Start](https://www.brightcove.com/en/resources/blog/life-in-the-fastly-lane/)
+- 🎓 Papers:
+  - [Optimizing Mass-Scale Multi-Screen Video Delivery](https://ieeexplore.ieee.org/document/9069358)
